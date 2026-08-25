@@ -11,7 +11,7 @@ Software development agency based in Lyon, France. We help businesses build cust
 
 ## Open source
 
-Our open source work is published on the profile of our founder [Jordan Tête](https://github.com/jordantete), including [OddsHarvester](https://github.com/jordantete/OddsHarvester) (234 stars) and [grid_trading_bot](https://github.com/jordantete/grid_trading_bot) (145 stars).
+Our open source work is published on the profile of our founder [Jordan Tête](https://github.com/jordantete), including [OddsHarvester](https://github.com/jordantete/OddsHarvester) and [grid_trading_bot](https://github.com/jordantete/grid_trading_bot).
 
 ## Contact
 
